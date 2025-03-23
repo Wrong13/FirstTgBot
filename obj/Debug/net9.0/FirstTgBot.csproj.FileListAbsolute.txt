@@ -16,3 +16,14 @@ C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.pdb
 C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.genruntimeconfig.cache
 C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\ref\FirstTgBot.dll
 C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.sourcelink.json
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\DeepCloner.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\FluentAssertions.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\RESTFulSense.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\Standard.AI.OpenAI.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\Xeption.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
