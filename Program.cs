@@ -1,5 +1,19 @@
 ﻿using Telegram.Bot;
+using Telegram.Bot.Types;
+using Telegram.Bot.Types.Enums;
 
-var bot = new TelegramBotClient("");
+using var cts = new CancellationTokenSource();
+var bot = new TelegramBotClient("",cancellationToken: cts.Token);
 var me = await bot.GetMe();
-Console.WriteLine($"Привет я юзер {me.Id} а имя {me.FirstName}");
+bot.OnMessage += OnMessage;
+
+Console.WriteLine($"{me.Username} is running");
+Console.ReadLine();
+
+async Task OnMessage(Message msg, UpdateType type)
+{
+    if (msg.Text is null) return;
+    Console.WriteLine($"Полученно {type} '{msg.Text}' в {msg.Chat}");
+
+    await bot.SendMessage(msg.Chat, $"{msg.From} сказал: {msg.Text}");
+}
