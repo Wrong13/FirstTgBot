@@ -1,0 +1,17 @@
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\FirstTgBot.exe
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\FirstTgBot.deps.json
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\FirstTgBot.runtimeconfig.json
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\FirstTgBot.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\FirstTgBot.pdb
+C:\Users\wg\Documents\Prj\FirstTgBot\bin\Debug\net9.0\Telegram.Bot.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.csproj.AssemblyReference.cache
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.AssemblyInfoInputs.cache
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.AssemblyInfo.cs
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.csproj.CoreCompileInputs.cache
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.csproj.Up2Date
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\refint\FirstTgBot.dll
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.pdb
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\FirstTgBot.genruntimeconfig.cache
+C:\Users\wg\Documents\Prj\FirstTgBot\obj\Debug\net9.0\ref\FirstTgBot.dll
